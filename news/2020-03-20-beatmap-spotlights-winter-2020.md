@@ -96,7 +96,6 @@ On second place we have sakuraburst - dungeon music by [IceOC](https://osu.ppy.s
 
 Coming in third this season, we have the creatively named 1000 gecs by the artist 100 gecs. Please beware, this is an extremely long map by [Genjuro](https://osu.ppy.sh/users/3196091), sporting 23 minutes of silly songs backed by a solid and diverse map! If you have half an hour to spare, it will not be wasted on playing this map, which will surely put a smile on your face not only due to the song choice, but also due to how they are mapped. This map is clearly a work of passion from Genjuro!
 
-
 *written by [Nepuri](https://osu.ppy.sh/users/6637817)*
 
 [![](/wiki/shared/news/2020-03-20-beatmap-spotlights-winter-2020/taiko/hibi.jpg)](https://osu.ppy.sh/beatmapsets/1006568)
