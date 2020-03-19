@@ -32,7 +32,11 @@ First of all, congratulations to the winners of the Seasonal Spotlights: Autumn 
 
 [![](/wiki/shared/news/2020-03-20-beatmap-spotlights-winter-2020/osu/24.jpg)](https://osu.ppy.sh/beatmapsets/1086289)
 
-From a new featured artist comes a very challenging and interesting map. With such a chaotic song, [Niva](https://osu.ppy.sh/users/197805) strove to map Frums' "24eeev0-$" while representing the intensity of the song flawlessly, and that they did. Though the map may seem quite simple at first glance, it soon picks up the pace (literally). The seemingly simple mapping concepts complements the constantly accelerating music, representing the same melody with similar rhythm choices, but with the increased tempo comes with increased strain, effectively showcasing the intensity, while keeping the gameplay fair for players. Even at the end, when the music gets dissolved by noise, the map looks out for the drowned melody. With such a well-crafted mapset, you should definitely try this out!
+From a new featured artist comes a very challenging and interesting map. With such a chaotic song, [Niva](https://osu.ppy.sh/users/197805) strove to map Frums' "24eeev0-$" while representing the intensity of the song flawlessly, and that they did.
+
+Though the map may seem quite simple at first glance, it soon picks up the pace (literally). The seemingly simple mapping concepts complements the constantly accelerating music, representing the same melody with similar rhythm choices, but with the increased tempo comes with increased strain, effectively showcasing the intensity, while keeping the gameplay fair for players. Even at the end, when the music gets dissolved by noise, the map looks out for the drowned melody.
+
+With such a well-crafted mapset, you should definitely try this out!
 
 *written by [KnightC0re](https://osu.ppy.sh/users/7894340)*
 
@@ -44,13 +48,19 @@ Bringing back the nostalgic memories, six "traditional" mappers - [Leader](https
 
 [![](/wiki/shared/news/2020-03-20-beatmap-spotlights-winter-2020/osu/xaaa.jpg)](https://osu.ppy.sh/beatmapsets/999260)
 
-A harrowing, unsettling, some might say even cursed or creepy experience awaits whoever dares to come close to this map. [Hey lululu](https://osu.ppy.sh/users/4086497) creates the complete package of an experience from storyboard to custom skin for XaaaCi. by Mitose Noriko and with an expressive artistic style which will leave an impact well into your nightmares. The mapping takes it's roots the elements surrounding it in a ubsetteling odd manner, just to throw you off even more! To maximize the effect of this map, enable everything from storyboard and hitsounds to the custom skin. However, player discression is advised and we take no responsibility for any lasting psychological damages!
+A harrowing, unsettling, some might say even cursed or creepy experience awaits whoever dares to come close to this map. [Hey lululu](https://osu.ppy.sh/users/4086497) creates the complete package of an experience from storyboard to custom skin for XaaaCi. by Mitose Noriko and with an expressive artistic style which will leave an impact well into your nightmares. The mapping takes it's roots the elements surrounding it in a ubsetteling odd manner, just to throw you off even more!
+
+To maximize the effect of this map, enable everything from storyboard and hitsounds to the custom skin. However, player discression is advised and we take no responsibility for any lasting psychological damages!
 
 *written by [Smokeman](https://osu.ppy.sh/users/2140676)*
 
 [![](/wiki/shared/news/2020-03-20-beatmap-spotlights-winter-2020/osu/buried.jpg)](https://osu.ppy.sh/beatmapsets/1070444)
 
-Here comes [squirrelpascals](https://osu.ppy.sh/users/6151332), back at it again with a somewhat unconventional beatmap. For such a tranquil song like HAELOS’ Buried in the Sand, he made sure that the map turns out to be an interesting one. By mostly focusing on the percussion layer of the song, he managed to dig out some irregular rhythms, making the playing experience engaging, while still being fair to read with the apparent spacing changes. As the chorus hits, overall spacing is dramatically increased, matching the sudden increased volume and intensity of the music, using frequent 1/4 jumps and high slider velocities, and in the case of the last chorus, much more chaotic slider shapes. This masterfully designed map is an experience that you don’t want to miss!
+Here comes [squirrelpascals](https://osu.ppy.sh/users/6151332), back at it again with a somewhat unconventional beatmap. For such a tranquil song like HAELOS’ Buried in the Sand, he made sure that the map turns out to be an interesting one.
+
+By mostly focusing on the percussion layer of the song, he managed to dig out some irregular rhythms, making the playing experience engaging, while still being fair to read with the apparent spacing changes. As the chorus hits, overall spacing is dramatically increased, matching the sudden increased volume and intensity of the music, using frequent 1/4 jumps and high slider velocities, and in the case of the last chorus, much more chaotic slider shapes.
+
+This masterfully designed map is an experience that you don’t want to miss!
 
 *written by [KnightC0re](https://osu.ppy.sh/users/7894340)*
 
@@ -68,13 +78,25 @@ Refreshing the cs5 mapping atmosphere, [Necho](https://osu.ppy.sh/users/4086593)
 
 [![](/wiki/shared/news/2020-03-20-beatmap-spotlights-winter-2020/osu/precious.jpg)](https://osu.ppy.sh/beatmapsets/874732)
 
-TAKE FLIGHT! Almost quite literally with [Vell](https://osu.ppy.sh/users/3414541)'s map on Chata's Precious Wings! Vell wears his heart on the sleeve, or rather the editor, with this one as you experience the first ever aviation training map in osu! history! Practice taking off and landing gracefully as the map takes flight itself and reach the skies! If the concept isn't quite clear to you yet, you may just try it out yourself. But beware! No parachutes attached.
+TAKE FLIGHT! Almost quite literally with [Vell](https://osu.ppy.sh/users/3414541)'s map on Chata's Precious Wings!
+
+Vell wears his heart on the sleeve, or rather the editor, with this one as you experience the first ever aviation training map in osu! history! 
+
+Practice taking off and landing gracefully as the map takes flight itself and reach the skies! If the concept isn't quite clear to you yet, you may just try it out yourself.
+
+But beware!
+
+No parachutes attached.
 
 *written by [Smokeman](https://osu.ppy.sh/users/2140676)*
 
 [![](/wiki/shared/news/2020-03-20-beatmap-spotlights-winter-2020/osu/haryo)](https://osu.ppy.sh/beatmapsets/576232)
 
-Being a slightly too early bird, [milr_](https://osu.ppy.sh/users/4485933) created a wonderful mapset for Azu’s Haryu, the song of the dragon of spring (not winter). The highest difficulty, mapped by Down, features the conventional and effective patterning. Prioritizing aesthetics, they made sure that every pattern is equidistant to one another, making the map extremely clean and well-presented. milr_ range of difficulties should also be highlighted. Although still pleasing to the eye, the map shines with its movement concepts. With a lot of sliders pointing away from their destinations, the map allows movement to be vastly varied without the constraint of implied flow. This works extremely well with the abundance of round slider shapes. This visual and movement concept is implemented across lower difficulties, allowing a bigger part of the playerbase to experience this niche idea. Try this map and spice up your collection! (note: remove "(not winter)" if you want i just thought it would be funny lol)
+Being a slightly too early bird, [milr_](https://osu.ppy.sh/users/4485933) created a wonderful mapset for Azu’s Haryu, the song of the dragon of spring (not winter).
+
+The highest difficulty, mapped by Down, features the conventional and effective patterning. Prioritizing aesthetics, they made sure that every pattern is equidistant to one another, making the map extremely clean and well-presented. milr_ range of difficulties should also be highlighted. Although still pleasing to the eye, the map shines with its movement concepts. With a lot of sliders pointing away from their destinations, the map allows movement to be vastly varied without the constraint of implied flow. This works extremely well with the abundance of round slider shapes. This visual and movement concept is implemented across lower difficulties, allowing a bigger part of the playerbase to experience this niche idea.
+
+Try this map and spice up your collection!
 
 *written by [KnightC0re](https://osu.ppy.sh/users/7894340)*
 
@@ -82,7 +104,9 @@ Being a slightly too early bird, [milr_](https://osu.ppy.sh/users/4485933) creat
 
 [![](/wiki/shared/news/2020-03-20-beatmap-spotlights-winter-2020/taiko/leviathan.jpg)](https://osu.ppy.sh/beatmapsets/1013884)
 
-Topping off this season's Spotlights, we have a map that keeps you busy with complicated rhythms all the way through - Leviathan, a mostly piano-based Touhou arrangement, mapped by [yassu-](https://osu.ppy.sh/users/7095592), a mapper who's shown their skill at handling rhythmically complicated songs time and time again! In this map specifically, a lot of the complexity comes from blue tick rhythms and tricky off-hand patterns mixed with 1/6 and 1/8 for even more handswitches whenever the piano calls for it, as well as some standalone 1/8 doubles sneaked in which feel really pleasant to play - all in all a great fit for spotlights, even more so as the set as a whole manages to maintain its rhythmical complexity across the lower difficulties, making it a treat for people at all levels seeking a challenge!
+Topping off this season's Spotlights, we have a map that keeps you busy with complicated rhythms all the way through - Leviathan, a mostly piano-based Touhou arrangement, mapped by [yassu-](https://osu.ppy.sh/users/7095592), a mapper who's shown their skill at handling rhythmically complicated songs time and time again! 
+
+In this map specifically, a lot of the complexity comes from blue tick rhythms and tricky off-hand patterns mixed with 1/6 and 1/8 for even more handswitches whenever the piano calls for it, as well as some standalone 1/8 doubles sneaked in which feel really pleasant to play - all in all a great fit for spotlights, even more so as the set as a whole manages to maintain its rhythmical complexity across the lower difficulties, making it a treat for people at all levels seeking a challenge!
 
 *written by [Greenshell](https://osu.ppy.sh/users/8693851)*
 
@@ -126,7 +150,13 @@ Spring is coming, wanna play a map with spring flavor? hot chocolate by [JBHyper
 
 [![](/wiki/shared/news/2020-03-20-beatmap-spotlights-winter-2020/catch/sweet.jpg)](https://osu.ppy.sh/beatmapsets/738169)
 
-[Sorcerer](https://osu.ppy.sh/users/1913190) and [ZiRoX](https://osu.ppy.sh/users/200768) has something sweet to offer in this season's Spotlights! Starting from the bottom we have Cup, Salad and Platter all made by Sorcerer, and they lead the player through the learning stages of the streams and how to control the jumps. If you can already get full combo on the Salad then the next step is to learn how to handle the Hyperjumps and time your normal jumps at the end of the streams in Platter. Very well designed difficulty curve. Next up we have two Rain to choose from, one from the mapper of the previous three and one guest difficulty from ZiRoX. Dispite their similar star ratings there is a clear difference in them. ZiRoX decided to use less Hyperjump during the stream parts but instead use stair patterns, which are not necessarily easier to handle though. Meanwhile Sorcerer decided to step up from Platter and make his Hyperjump streams even more deadly for the player with more experience. And for last we have a Sweet Overdose, which is not really that sweet if you take a peek inside. It raises to jump stream pattern into a whole new level where the players have to face the true evil in case they dare to challenge it. The sweetness flew away and only Rain remained, raining fruits and Hypers everywhere. Prepare your umbrella and get ready to catch 'em all!
+[Sorcerer](https://osu.ppy.sh/users/1913190) and [ZiRoX](https://osu.ppy.sh/users/200768) has something sweet to offer in this season's Spotlights!
+
+Starting from the bottom we have Cup, Salad and Platter all made by Sorcerer, and they lead the player through the learning stages of the streams and how to control the jumps. If you can already get full combo on the Salad then the next step is to learn how to handle the Hyperjumps and time your normal jumps at the end of the streams in Platter. Very well designed difficulty curve.
+
+Next up we have two Rain to choose from, one from the mapper of the previous three and one guest difficulty from ZiRoX. Dispite their similar star ratings there is a clear difference in them. ZiRoX decided to use less Hyperjump during the stream parts but instead use stair patterns, which are not necessarily easier to handle though. Meanwhile Sorcerer decided to step up from Platter and make his Hyperjump streams even more deadly for the player with more experience.
+
+And for last we have a Sweet Overdose, which is not really that sweet if you take a peek inside. It raises to jump stream pattern into a whole new level where the players have to face the true evil in case they dare to challenge it. The sweetness flew away and only Rain remained, raining fruits and Hypers everywhere. Prepare your umbrella and get ready to catch 'em all!
 
 *written by [Kurokami](https://osu.ppy.sh/users/260933)*
 
@@ -134,7 +164,9 @@ Spring is coming, wanna play a map with spring flavor? hot chocolate by [JBHyper
 
 [![](/wiki/shared/news/2020-03-20-beatmap-spotlights-winter-2020/mania/transhuman.jpg)](https://osu.ppy.sh/beatmapsets/1069426)
 
-Incredibly exciting yet surprisingly delicate in its structure, [Kamuy](https://osu.ppy.sh/users/7439226)'s Transhumanist stands out among currently ranked maps by being the first semi-dump ranked in osu!mania. This map has been making waves in both mapping as well as higher-level playing communities by combining consistent usage of pattern/snap arrangements to represent specific kinds of wubs in the song in order to fully represent intensity with player-friendly yet challenging patterns. These make it an absolute joy to play through and fascinating to pick apart in the editor as well. Even though it's the first of it's kind in the ranked section, Transhumanist sets an extremely high bar and proves that these kinds of maps are not only rankable, but exceptional in terms of mapping quality and providing an enjoyable player experience. This map is arguably one of Kamuy's best maps so far and we're proud to showcase it in spotlights!
+Incredibly exciting yet surprisingly delicate in its structure, [Kamuy](https://osu.ppy.sh/users/7439226)'s Transhumanist stands out among currently ranked maps by being the first semi-dump ranked in osu!mania. This map has been making waves in both mapping as well as higher-level playing communities by combining consistent usage of pattern/snap arrangements to represent specific kinds of wubs in the song in order to fully represent intensity with player-friendly yet challenging patterns. These make it an absolute joy to play through and fascinating to pick apart in the editor as well.
+
+Even though it's the first of it's kind in the ranked section, Transhumanist sets an extremely high bar and proves that these kinds of maps are not only rankable, but exceptional in terms of mapping quality and providing an enjoyable player experience. This map is arguably one of Kamuy's best maps so far and we're proud to showcase it in spotlights!
 
 *written by [-MysticEyes](https://osu.ppy.sh/users/6253266)*
 
