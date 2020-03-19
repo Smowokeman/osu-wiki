@@ -42,7 +42,11 @@ With such a well-crafted mapset, you should definitely try this out!
 
 [![](/wiki/shared/news/2020-03-20-beatmap-spotlights-winter-2020/osu/umineko.jpg)](https://osu.ppy.sh/beatmapsets/998836)
 
-Bringing back the nostalgic memories, six "traditional" mappers - [Leader](https://osu.ppy.sh/users/631530), [-kevincela-](https://osu.ppy.sh/users/266596), [Mirash](https://osu.ppy.sh/users/2841009), [Okoratu](https://osu.ppy.sh/users/1623405), [Rue](https://osu.ppy.sh/users/417551) and [Nemis](https://osu.ppy.sh/users/1635091) - collaborated on an insanely amazing Umineko no Naku Koro ni project. It includes 8 remixed songs by zts, an old friend of us, and was brought up by La Cataline, another well-known name in our community. This 30-minute long mapset basically concludes the whole flow-based mapping scene: nearly every pattern in this map maximizes the playability and readability by using intuitive flow techniques to create an unforgettable playing experience. Besides, even though 6 mappers included have different aesthetic choices, each of their styles combined with others surprisingly well while still stands out individually to give players consistent and frequent visual stimulations. This map has only 4.84* as its star rating, which means it can be enjoyed by the majority of the players - so if you are searching for a wonderful experience that lasts as long as possible, this compilation could be one of your rare best choices. Side note: if you have played Umineko no Naku Koro ni, please enable the storyboard made by tokiko, which summerizes its whole story in a nutshell.
+Bringing back the nostalgic memories, six "traditional" mappers - [Leader](https://osu.ppy.sh/users/631530), [\-kevincela\-](https://osu.ppy.sh/users/266596), [Mirash](https://osu.ppy.sh/users/2841009), [Okoratu](https://osu.ppy.sh/users/1623405), [Rue](https://osu.ppy.sh/users/417551) and [Nemis](https://osu.ppy.sh/users/1635091) - collaborated on an insanely amazing Umineko no Naku Koro ni project. 
+
+It includes 8 remixed songs by zts, an old friend of us, and was brought up by La Cataline, another well-known name in our community. This 30-minute long mapset basically concludes the whole flow-based mapping scene: nearly every pattern in this map maximizes the playability and readability by using intuitive flow techniques to create an unforgettable playing experience. Besides, even though 6 mappers included have different aesthetic choices, each of their styles combined with others surprisingly well while still stands out individually to give players consistent and frequent visual stimulations. 
+
+This map has only 4.84* as its star rating, which means it can be enjoyed by the majority of the players - so if you are searching for a wonderful experience that lasts as long as possible, this compilation could be one of your rare best choices. Side note: if you have played Umineko no Naku Koro ni, please enable the storyboard made by [tokiko](https://osu.ppy.sh/users/2836455), which summarizes its whole story in a nutshell.
 
 *written by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)*
 
@@ -66,13 +70,17 @@ This masterfully designed map is an experience that you don’t want to miss!
 
 [![](/wiki/shared/news/2020-03-20-beatmap-spotlights-winter-2020/osu/sealer.jpg)](https://osu.ppy.sh/beatmapsets/1067056)
 
-[celerih](https://osu.ppy.sh/users/4696296)'s idiosyncratic take on freeformness has always stood out from the ocean of ''flow oriented'' maps, and this rendition of Zektbach - The Sealer ~A Milia to Milia no Min~ encapsulates this philosophy while showcasing one of their boldest palette collection. A concise mapset content-wise, the folkish ballet is designed with engaging rhythms and cutting edge patterns with meticulous attention to feedback, all to synthesize a delightful experience of a dance and a strong, cohesive character that one will scarce discover from a map.
+[celerih](https://osu.ppy.sh/users/4696296)'s idiosyncratic take on free-formness has always stood out from the ocean of ''flow-oriented'' maps, and this rendition of Zektbach - The Sealer ~A Milia to Milia no Min~ encapsulates this philosophy while showcasing one of their boldest palette collection. 
+
+A concise mapset content-wise, the folkish ballet is designed with engaging rhythms and cutting edge patterns with meticulous attention to feedback, all to synthesize a delightful experience of a dance and a strong, cohesive character that one will scarcely discover from a map.
 
 *written by [faygo](https://osu.ppy.sh/users/5199686)*
 
 [![](/wiki/shared/news/2020-03-20-beatmap-spotlights-winter-2020/osu/felys.jpg)](https://osu.ppy.sh/beatmapsets/1056144)
 
-Refreshing the cs5 mapping atmosphere, [Necho](https://osu.ppy.sh/users/4086593) brought the old simple yet spicy techniques introduced by tsuka, kiddly and Kloyd, make flexible use of them then create another simple yet spicy mapset on his new mapset, onoken - felys. Differing from the classic Shiirn one, Necho used several representative "old-school" cs5 mapping styles, including consistent 3D overlaps on red node sliders, hugely curved short sliders and instantly visible object connections at every second through the whole map. All of these combines with the minimalism storyboard by Necho himself and remix-tier hitsound by Otosaka-Yu (Suzuki_1112) results in an unique - or "illegal" experience in the current mapping scene. If you are asking "where are the stunning old cs5 mappers go nowadays", or "where can I find the most epic hitsounds" this could be one of the closest answers for both.
+Refreshing the CS5 mapping atmosphere, [Necho](https://osu.ppy.sh/users/4086593) brought the old simple yet spicy techniques introduced by tsuka, kiddly and Kloyd, make flexible use of them then create another simple yet spicy mapset on his new mapset, onoken's "felys". Differing from the classic Shiirn one, Necho used several representatives "old-school" cs5 mapping styles, including consistent 3D overlaps on red node sliders, hugely curved short sliders and instantly visible object connections at every second through the whole map. 
+
+All of these combines with the minimalism storyboard by Necho himself and remix-tier hitsound by Otosaka-Yu (Suzuki_1112) results in a unique - or "illegal" experience in the current mapping scene. If you are asking "where are the stunning old cs5 mappers go nowadays", or "where can I find the most epic hitsounds" this could be one of the closest answers for both.
 
 *written by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)*
 
@@ -112,19 +120,27 @@ In this map specifically, a lot of the complexity comes from blue tick rhythms a
 
 [![](/wiki/shared/news/2020-03-20-beatmap-spotlights-winter-2020/taiko/dungeon.jpg)](https://osu.ppy.sh/beatmapsets/1056653)
 
-On second place we have sakuraburst - dungeon music by [IceOC](https://osu.ppy.sh/users/5482401). Outstanding sv map that can be a tough challenge for any player despite its simplicity and low star rating. IceOC shows how much details this map has with variations from x0.13 to x10.00 slider velocity, applied on high speed ninja finishers, extremely slow sections and tricky patterns, everything attached to an exceptional representation of music in an entertaining and interesting way. Such uniqueness and clean execution makes this a well deserved spotlight.
+On second place we have sakuraburst - dungeon music by [IceOC](https://osu.ppy.sh/users/5482401). Outstanding SV map that can be a tough challenge for any player despite its simplicity and low star rating. 
+
+IceOC shows how much details this map has with variations from x0.13 to x10.00 slider velocity, applied on high-speed ninja finishers, extremely slow sections and tricky patterns, everything attached to an exceptional representation of music in an entertaining and interesting way. Such uniqueness and clean execution make this a well-deserved spotlight.
 
 *written by [Ulqui](https://osu.ppy.sh/users/1263669)*
 
 [![](/wiki/shared/news/2020-03-20-beatmap-spotlights-winter-2020/taiko/1000.jpg)](https://osu.ppy.sh/beatmapsets/1032172)
 
-Coming in third this season, we have the creatively named 1000 gecs by the artist 100 gecs. Please beware, this is an extremely long map by [Genjuro](https://osu.ppy.sh/users/3196091), sporting 23 minutes of silly songs backed by a solid and diverse map! If you have half an hour to spare, it will not be wasted on playing this map, which will surely put a smile on your face not only due to the song choice, but also due to how they are mapped. This map is clearly a work of passion from Genjuro!
+Coming in third this season, we have the creatively named 1000 gecs by the artist 100 gecs. 
+
+Please beware, this is an extremely long map by [Genjuro](https://osu.ppy.sh/users/3196091), sporting 23 minutes of silly songs backed by a solid and diverse map! If you have half an hour to spare, it will not be wasted on playing this map, which will surely put a smile on your face not only due to the song choice, but also due to how they are mapped. This map is clearly a work of passion from Genjuro!
 
 *written by [Nepuri](https://osu.ppy.sh/users/6637817)*
 
 [![](/wiki/shared/news/2020-03-20-beatmap-spotlights-winter-2020/taiko/hibi.jpg)](https://osu.ppy.sh/beatmapsets/1006568)
 
-Crazy snappings? Stupidly fast sections? A ton of finishers? SV to strain your eyes? This map has it all. In 4th place we have KikuoHana - Hibi Darake no Me by [Alchyr](https://osu.ppy.sh/users/4993032). Not many people can equal a crazy song with a crazy map, but this guy is one of the best at it. With three difficulties to cater for more experienced to the most experienced players, it's not hard to tell the mapper has put in a lot of work into this mapset and to make it a nightmare to FC. The map starts off with the first half being deceivingly calm, until the drop hits and the map explodes into a burst of fun. All difficulties (with the top diff in particular) utilise a wide range of tough patterns constantly varying in length, rhythm and snappings which prove to be difficult for even the best of players, and it's one and a half minutes of hell which shows how creative mappers, especially Alchyr, are getting with their work and how high the bar for map difficulty has been set.
+Crazy snappings? Stupidly fast sections? A ton of finishers? SV to strain your eyes? This map has it all. In 4th place we have KikuoHana - Hibi Darake no Me by [Alchyr](https://osu.ppy.sh/users/4993032). 
+
+Not many people can equal a crazy song with a crazy map, but this guy is one of the best at it. With three difficulties to cater for more experienced to the most experienced players, it's not hard to tell the mapper has put in a lot of work into this mapset and to make it a nightmare to get a full combo. 
+
+The map starts off with the first half being deceivingly calm, until the drop hits and the map explodes into a burst of fun. All difficulties (with the top diff in particular) utilise a wide range of tough patterns constantly varying in length, rhythm and snappings which prove to be difficult for even the best of players, and it's one and a half minutes of hell which shows how creative mappers, especially Alchyr, are getting with their work and how high the bar for map difficulty has been set.
 
 *written by [\_DUSK\_](https://osu.ppy.sh/users/6092181)*
 
@@ -132,19 +148,23 @@ Crazy snappings? Stupidly fast sections? A ton of finishers? SV to strain your e
 
 [![](/wiki/shared/news/2020-03-20-beatmap-spotlights-winter-2020/catch/chocolate.jpg)](https://osu.ppy.sh/beatmapsets/1061800)
 
-Spring is coming, wanna play a map with spring flavor? hot chocolate by [JBHyperion](https://osu.ppy.sh/users/4879508) should be one of the best choices here. Needless to say, the high quality mapping style is always a mark for featured artist maps, this map is no exception. Despite the extraordinary clean and fresh flows, the mapper also tried some new features here - extending sliders and 1/8 hyperdashes. These innovative patterns bring the map to the next level and make the map stands out as well. Please make a cup of hot chocolate and enjoy this fantastic map!
+Spring is coming, wanna play a map with spring flavour? 'hot chocolate' by [JBHyperion](https://osu.ppy.sh/users/4879508) should be one of the best choices here. Needless to say, the high-quality mapping style is always a mark for featured artist maps, this map is no exception. 
+
+Despite the extraordinary clean and fresh flows, the mapper also tried some new features here - extending sliders and 1/8 Hyperdashes. These innovative patterns bring the map to the next level and make the map stands out as well. Please make a cup of hot chocolate and enjoy this fantastic map!
 
 *written by [Yumeno Himiko](https://osu.ppy.sh/users/1806962)*
 
 [![](/wiki/shared/news/2020-03-20-beatmap-spotlights-winter-2020/catch/loving.jpg)](https://osu.ppy.sh/beatmapsets/1080025)
 
-'How on earth did eroge get into spotlights?' may be a question that pops up when first encountering this set. Despite the general stigma against the genre, [Luminate](https://osu.ppy.sh/users/4778689)'s "Loving Trip" does a great job of following the song. Slower parts of the song keep things interesting with varied rhythm and patterns, while higher density sections have liberal use of antiflow that contrasts well. This is one of the few sets that I've genuinely had fun playing this year, and I hope you give it a shot as well.
+'How on earth did eroge get into spotlights?' may be a question that pops up when first encountering this set. Despite the general stigma against the genre, [Luminate](https://osu.ppy.sh/users/4778689)'s "Loving Trip" does a great job of following the song. 
+
+Slower parts of the song keep things interesting with varied rhythm and patterns, while higher density sections have liberal use of antiflow that contrasts well. This is one of the few sets that I've genuinely had fun playing this year, and I hope you give it a shot as well.
 
 *written by [Sinnoh](https://osu.ppy.sh/users/4236057)*
 
 [![](/wiki/shared/news/2020-03-20-beatmap-spotlights-winter-2020/catch/lights.jpg)](https://osu.ppy.sh/beatmapsets/1044462)
 
-[Kukkai](https://osu.ppy.sh/users/7811952)'s "Lights of Muse" has a certain feeling behind it that is fairly uncommon these days, reminiscent of something that would have easily had a play count in the hundred thousands if it was ranked a few years ago. While use of patterns and rhythm is fairly simple, the whole set is at a consistent level of fun that is hard to come by.
+[Kukkai](https://osu.ppy.sh/users/7811952)'s "Lights of Muse" has a certain feeling behind it that is fairly uncommon these days, reminiscent of something that would have easily had a play count in the hundred thousand if it was ranked a few years ago. While the use of patterns and rhythm is fairly simple, the whole set is at a consistent level of fun that is hard to come by.
 
 *written by [Sinnoh](https://osu.ppy.sh/users/4236057)*
 
@@ -172,25 +192,39 @@ Even though it's the first of it's kind in the ranked section, Transhumanist set
 
 [![](/wiki/shared/news/2020-03-20-beatmap-spotlights-winter-2020/mania/experiment.jpg)](https://osu.ppy.sh/beatmapsets/914341)
 
-[Curiossity](https://osu.ppy.sh/users/6490035) strikes again with another insanely innovative and creative masterpiece. Every bit of this map is thought out with very particularly detailed and visually appealing patterning and SV, which gives the map a great amount of replay value, especially for a marathon. The map's excitement is maintained throughout the map, making for a roller-coaster of an experience. It never gets boring, not even during the slower sections, in which the player must pay very close attention to the LN releases at a slow scroll speed. This map thus deserves its top spot in the spotlights, and we hope to see Curiossity continue to produce spectacular maps like this one in the future.
+[Curiossity](https://osu.ppy.sh/users/6490035) strikes again with another insanely innovative and creative masterpiece.
+
+Every bit of this map is thought out with very particularly detailed and visually appealing patterning and speed changes, which gives the map a great amount of replay value, especially for a marathon. The map's excitement is maintained throughout the map, making for a roller-coaster of an experience. 
+
+It never gets boring, not even during the slower sections, in which the player must pay very close attention to the long note releases at a slow scroll speed. This map thus deserves its top spot in the spotlights, and we hope to see Curiossity continue to produce spectacular maps like this one in the future.
 
 *written by [-mint-](https://osu.ppy.sh/users/8976576)*
 
 [![](/wiki/shared/news/2020-03-20-beatmap-spotlights-winter-2020/mania/every.jpg)](https://osu.ppy.sh/beatmapsets/905599)
 
-If you had to describe this map with one word, it'd be something along the lines of... Intricate. Detailed. Accurate. Clean. Recently we have seen a rise of mappers in osu!mania with this approach in mind, [Monheim](https://osu.ppy.sh/users/6814203) and [Vortex-](https://osu.ppy.sh/users/4999669) being well-known for their precision and accuracy in their maps. This map in particular accomplishes things that many mappers most likely would not be able to accomplish if they were to map this - it is musically accurate in that it expresses many instruments and melody lines at once, is delicate and clean to play, and provides a challenge for all sorts of players. These remain consistent through each difficulty of the mapset. This map thus deserves its spot in this season's spotlights, and be on the lookout - we most definitely will see more by these two extraordinarily talented mappers in the future.
+If you had to describe this map with one word, it'd be something along the lines of... Intricate. Detailed. Accurate. Clean. Recently we have seen a rise of mappers in osu!mania with this approach in mind, [Monheim](https://osu.ppy.sh/users/6814203) and [Vortex-](https://osu.ppy.sh/users/4999669) being well-known for their precision and accuracy in their maps. 
+
+This map, in particular, accomplishes things that many mappers most likely would not be able to accomplish if they were to map this - it is musically accurate in that it expresses many instruments and melody lines at once, is delicate and clean to play, and provides a challenge for all sorts of players. These remain consistent through each difficulty of the mapset. This map thus deserves its spot in this season's spotlights, and be on the lookout - we most definitely will see more by these two extraordinarily talented mappers in the future.
 
 *written by [-mint-](https://osu.ppy.sh/users/8976576)*
 
 [![](/wiki/shared/news/2020-03-20-beatmap-spotlights-winter-2020/mania/oceanus.jpg)](https://osu.ppy.sh/beatmapsets/539179)
 
-It has been a while before [Level 51](https://osu.ppy.sh/users/3617847) made his appearance in mapping ground, and this time he brings the community with a great 6k mapset, Oceanus. GALE_FORCE, as the top difficulty of the mapset, proposes a real challenge for advanced players with its dense but well-balanced streams that follow the shifts in music. On the other hand, the lower two difficulties definitely provide great opportunities for general players to start with 6K and practice over 6K streams as the mapper managed to effectively balance the density within and between these difficulties. Hitsounds are designated in a way that reasonably support musical rhythms but do not distract players from focusing on the streams. That is to say, Oceanus deserves a place in spotlight as a recommendation to every player interested in progressing and challenging with 6K maps.
+It has been a while before [Level 51](https://osu.ppy.sh/users/3617847) made his appearance in mapping ground, and this time he brings the community with a great 6k mapset, Oceanus. 
+
+GALE_FORCE, as the top difficulty of the mapset, proposes a real challenge for advanced players with its dense but well-balanced streams that follow the shifts in the music. On the other hand, the lower two difficulties definitely provide great opportunities for general players to start with 6K and practice over 6K streams as the mapper managed to effectively balance the density within and between these difficulties. 
+
+Hitsounds are designated in a way that reasonably supports musical rhythms but does not distract players from focusing on the streams. That is to say, Oceanus deserves a place in the Spotlights as a recommendation to every player interested in progressing and challenging with 6K maps.
 
 *written by [Shima Rin](https://osu.ppy.sh/users/6089608)*
 
 [![](/wiki/shared/news/2020-03-20-beatmap-spotlights-winter-2020/mania/altros.jpg)](https://osu.ppy.sh/beatmapsets/877895)
 
-It has been about 3 years since [ByeForNow](https://osu.ppy.sh/users/7199159) has had a ranked map, and he comes back with an absolutely spectacular set! Despite being only three difficulties, each difficulty manages to have its own solid structure where instruments are represented through columns instead of the usual chords. You might want to turn on the hitsounds as well because the set is beautifully keysounded. Although keysounded, the set has high focus on the overall pitch and ByeForNow nails it perfectly! Delicate and precise, ByeForNow's Altros deserves a spot in this season's spotlights, and we will hope to see what other fantastic maps he produces!
+It has been about 3 years since [ByeForNow](https://osu.ppy.sh/users/7199159) has had a ranked map, and he comes back with an absolutely spectacular set! 
+
+Despite being only three difficulties, each difficulty manages to have its own solid structure where instruments are represented through columns instead of the usual chords. You might want to turn on the hitsounds as well because the set is beautifully keysounded. Although keysounded, the set has a high focus on the overall pitch and ByeForNow nails it perfectly! 
+
+Delicate and precise, ByeForNow's Altros deserves a spot in this season's Spotlights, and we will hope to see what other fantastic maps he produces!
 
 *written by [Kamuy](https://osu.ppy.sh/users/7439226)*
 
